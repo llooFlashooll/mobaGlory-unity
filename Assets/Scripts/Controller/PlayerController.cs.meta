@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 09a51b75f8b4f1c4086407eec8471574
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - model: {instanceID: 0}
+  - playerInput: {instanceID: 0}
+  - lockController: {instanceID: 0}
+  - frictionOne: {instanceID: 0}
+  - frictionZero: {instanceID: 0}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
